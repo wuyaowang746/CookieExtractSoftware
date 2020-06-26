@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6582bd8a-d878-4e3a-a78b-9a28e51e0557" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bvhs2gpOVcXCwdY4otmDsjeHhY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RunManager" selected="Python.operateWindow">
+    <configuration name="covert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCookieSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/covert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_chrome_cookie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCookieSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handleCookie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handleCookie/extract_chrome_cookie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getWebContent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCookieSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataAnalysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataAnalysis/getWebContent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_other_cookie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCookieSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handleCookie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handleCookie/get_other_cookie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operateWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCookieSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/operateWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.operateWindow" />
+        <item itemvalue="Python.covert" />
+        <item itemvalue="Python.getWebContent" />
+        <item itemvalue="Python.get_other_cookie" />
+        <item itemvalue="Python.extract_chrome_cookie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6582bd8a-d878-4e3a-a78b-9a28e51e0557" name="Default Changelist" comment="" />
+      <created>1589518677531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589518677531</updated>
+      <workItem from="1589518698369" duration="35374000" />
+      <workItem from="1589602183471" duration="19617000" />
+      <workItem from="1589697109976" duration="3644000" />
+      <workItem from="1589763989357" duration="973000" />
+      <workItem from="1590121157038" duration="125000" />
+      <workItem from="1590132702205" duration="908000" />
+      <workItem from="1590220085765" duration="2258000" />
+      <workItem from="1590245265081" duration="7000" />
+      <workItem from="1590296672138" duration="1194000" />
+      <workItem from="1590374233909" duration="14671000" />
+      <workItem from="1590629253908" duration="24857000" />
+      <workItem from="1590716584363" duration="21982000" />
+      <workItem from="1590800857942" duration="17349000" />
+      <workItem from="1590836128372" duration="8451000" />
+      <workItem from="1590889932184" duration="7479000" />
+      <workItem from="1590991987206" duration="457000" />
+      <workItem from="1591064994653" duration="1494000" />
+      <workItem from="1591256603274" duration="1808000" />
+      <workItem from="1591322453951" duration="7944000" />
+      <workItem from="1591344624061" duration="4857000" />
+      <workItem from="1591408759350" duration="4211000" />
+      <workItem from="1591586446607" duration="5518000" />
+      <workItem from="1591665536107" duration="147000" />
+      <workItem from="1591666736585" duration="9440000" />
+      <workItem from="1591693992832" duration="49000" />
+      <workItem from="1591695416500" duration="6420000" />
+      <workItem from="1591887579188" duration="422000" />
+      <workItem from="1591943208827" duration="13766000" />
+      <workItem from="1592030880235" duration="8358000" />
+      <workItem from="1592289135543" duration="3024000" />
+      <workItem from="1592320977408" duration="461000" />
+      <workItem from="1592321465861" duration="909000" />
+      <workItem from="1592322501623" duration="92000" />
+      <workItem from="1592360442946" duration="4267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Notifications" timestamp="1590801792339">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1590801792339" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1592321443460">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1592321443460" />
+    <state x="486" y="260" key="Github.CreateGistDialog" timestamp="1589617877040">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="486" y="260" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1589617877040" />
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom" timestamp="1592365518173">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592365518173" />
+    <state width="1323" height="125" key="GridCell.Tab.0.center" timestamp="1592365518173">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="125" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1592365518173" />
+    <state width="1323" height="125" key="GridCell.Tab.0.left" timestamp="1592365518173">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="125" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1592365518173" />
+    <state width="1323" height="125" key="GridCell.Tab.0.right" timestamp="1592365518173">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="125" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1592365518173" />
+    <state width="1323" height="204" key="GridCell.Tab.1.bottom" timestamp="1592044057324">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="204" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592044057324" />
+    <state width="1323" height="204" key="GridCell.Tab.1.center" timestamp="1592044057324">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="204" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1592044057324" />
+    <state width="1323" height="204" key="GridCell.Tab.1.left" timestamp="1592044057324">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="204" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1592044057324" />
+    <state width="1323" height="204" key="GridCell.Tab.1.right" timestamp="1592044057324">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="204" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1592044057324" />
+    <state x="263" y="103" key="IDE.errors.dialog" timestamp="1590374832144">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="103" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1590374832144" />
+    <state x="98" y="20" width="1097" height="716" key="SettingsEditor" timestamp="1592322534875">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="98" y="20" width="1097" height="716" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1592322534875" />
+    <state x="262" y="230" width="650" height="508" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1590664689601">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="262" y="230" width="650" height="508" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.738@0.0.1366.738" timestamp="1590664689601" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1590379302800">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1590379302800" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="each" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyCookieSoftware$get_other_cookie.coverage" NAME="get_other_cookie Coverage Results" MODIFIED="1591696336894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handleCookie" />
+    <SUITE FILE_PATH="coverage/MyCookieSoftware$getWebContent.coverage" NAME="getWebContent Coverage Results" MODIFIED="1592037079342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis" />
+    <SUITE FILE_PATH="coverage/MyCookieSoftware$operateWindow.coverage" NAME="operateWindow Coverage Results" MODIFIED="1592363927727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/MyCookieSoftware$covert.coverage" NAME="covert Coverage Results" MODIFIED="1592363138695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/MyCookieSoftware$extract_chrome_cookie.coverage" NAME="extract_chrome_cookie Coverage Results" MODIFIED="1591695609497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handleCookie" />
+  </component>
+</project>

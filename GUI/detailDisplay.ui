@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>detailDialog</class>
+ <widget class="QDialog" name="detailDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>659</width>
+    <height>486</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="image.qrc">
+    <normaloff>:/newPrefix/icons8.png</normaloff>:/newPrefix/icons8.png</iconset>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="label">
+     <property name="styleSheet">
+      <string notr="true">font: 36pt &quot;Arial&quot;;
+</string>
+     </property>
+     <property name="text">
+      <string>Host：</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QTextBrowser" name="hosttextBrowser">
+     <property name="styleSheet">
+      <string notr="true">font: 18pt &quot;Arial&quot;;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_2">
+     <property name="styleSheet">
+      <string notr="true">font: 36pt &quot;Arial&quot;;</string>
+     </property>
+     <property name="text">
+      <string>Name：</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QTextBrowser" name="nametextBrowser">
+     <property name="styleSheet">
+      <string notr="true">font: 18pt &quot;Arial&quot;;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_3">
+     <property name="styleSheet">
+      <string notr="true">font: 36pt &quot;Arial&quot;;</string>
+     </property>
+     <property name="text">
+      <string>Value：</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QTextBrowser" name="valuetextBrowser">
+     <property name="styleSheet">
+      <string notr="true">font: 18pt &quot;Arial&quot;;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_4">
+     <property name="styleSheet">
+      <string notr="true">font: 36pt &quot;Arial&quot;;</string>
+     </property>
+     <property name="text">
+      <string>Path：</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QTextBrowser" name="pathtextBrowser">
+     <property name="styleSheet">
+      <string notr="true">font: 18pt &quot;Arial&quot;;</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="image.qrc"/>
+ </resources>
+ <connections/>
+</ui>

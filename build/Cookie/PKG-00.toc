@@ -1,0 +1,97 @@
+('G:\\Graduation '
+ 'Project\\Experiment\\MyCookieSoftware\\build\\Cookie\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\build\\Cookie\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'F:\\Software\\Python\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'g:\\graduation '
+   'project\\experiment\\mycookiesoftware\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'g:\\graduation '
+   'project\\experiment\\mycookiesoftware\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'g:\\graduation '
+   'project\\experiment\\mycookiesoftware\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'g:\\graduation '
+   'project\\experiment\\mycookiesoftware\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'g:\\graduation '
+   'project\\experiment\\mycookiesoftware\\venv\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'g:\\graduation '
+   'project\\experiment\\mycookiesoftware\\venv\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'g:\\graduation '
+   'project\\experiment\\mycookiesoftware\\venv\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'g:\\graduation '
+   'project\\experiment\\mycookiesoftware\\venv\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('operateWindow',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\GUI\\operateWindow.py',
+   'PYSOURCE'),
+  ('extract_chrome_cookie',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\handleCookie\\extract_chrome_cookie.py',
+   'PYSOURCE'),
+  ('get_other_cookie',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\handleCookie\\get_other_cookie.py',
+   'PYSOURCE'),
+  ('getWebContent',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\dataAnalysis\\getWebContent.py',
+   'PYSOURCE'),
+  ('aboutDialog',
+   'G:\\Graduation Project\\Experiment\\MyCookieSoftware\\GUI\\aboutDialog.py',
+   'PYSOURCE'),
+  ('dangdangDialog',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\GUI\\dangdangDialog.py',
+   'PYSOURCE'),
+  ('detailDisplay',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\GUI\\detailDisplay.py',
+   'PYSOURCE'),
+  ('helpDialog',
+   'G:\\Graduation Project\\Experiment\\MyCookieSoftware\\GUI\\helpDialog.py',
+   'PYSOURCE'),
+  ('image',
+   'G:\\Graduation Project\\Experiment\\MyCookieSoftware\\GUI\\image.py',
+   'PYSOURCE'),
+  ('loadingDialog',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\GUI\\loadingDialog.py',
+   'PYSOURCE'),
+  ('mainWindow',
+   'G:\\Graduation Project\\Experiment\\MyCookieSoftware\\GUI\\mainWindow.py',
+   'PYSOURCE'),
+  ('seachDialog',
+   'G:\\Graduation Project\\Experiment\\MyCookieSoftware\\GUI\\seachDialog.py',
+   'PYSOURCE'),
+  ('Cookie.exe.manifest',
+   'G:\\Graduation '
+   'Project\\Experiment\\MyCookieSoftware\\build\\Cookie\\Cookie.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
